@@ -1,0 +1,34 @@
+orehi|Грецкий орех|грецкие орехи|30|1 горсть|U:Nuts, walnuts, english
+orehi|Миндаль|миндаль сырой|30|1 горсть|U:Nuts, almonds
+orehi|Фундук|лесной орех|30|1 горсть|U:Nuts, hazelnuts or filberts
+orehi|Кешью|кешью жареный|30|1 горсть|U:Nuts, cashew nuts, dry roasted, without salt added
+orehi|Арахис|земляной орех|30|1 горсть|U:Peanuts, all types, raw
+orehi|Арахис жареный солёный|арахис солёный|30|1 горсть|U:Peanuts, all types, dry-roasted, with salt
+orehi|Фисташки|фисташки жареные|30|1 горсть (очищенные)|U:Nuts, pistachio nuts, dry roasted, with salt added
+orehi|Кедровые орехи|кедровый орех|20|1 ст. ложка с горкой|U:Nuts, pine nuts, dried
+orehi|Пекан|орех пекан|30|1 горсть|U:Nuts, pecans
+orehi|Макадамия|орех макадамия|30|1 горсть|U:Nuts, macadamia nuts, raw
+orehi|Бразильский орех|бразильские орехи|5|1 шт.|U:Nuts, brazilnuts, dried, unblanched
+orehi|Кокосовая стружка|кокос сушёный|10|1 ст. ложка|U:Nuts, coconut meat, dried (desiccated), not sweetened
+orehi|Семечки подсолнечника|семечки, семена подсолнуха|30|1 горсть (очищенные)|U:Seeds, sunflower seed kernels, dried
+orehi|Семечки жареные|жареные семечки|30|1 горсть (очищенные)|U:Seeds, sunflower seed kernels, dry roasted, with salt added
+orehi|Тыквенные семечки|семена тыквы|30|1 горсть|U:Seeds, pumpkin and squash seed kernels, dried
+orehi|Семена льна|льняное семя, лён|10|1 ст. ложка|U:Seeds, flaxseed
+orehi|Семена чиа|чиа|12|1 ст. ложка|U:Seeds, chia seeds, dried
+orehi|Кунжут|семена кунжута|9|1 ст. ложка|U:Seeds, sesame seeds, whole, dried
+orehi|Мак|семена мака|9|1 ст. ложка|U:Spices, poppy seed
+orehi|Арахисовая паста|арахисовое масло (паста)|16|1 ст. ложка|U:Peanut butter, smooth style, without salt
+orehi|Тахини|кунжутная паста|15|1 ст. ложка|U:Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type)
+orehi|Нутелла / ореховая паста с какао|шоколадная паста, нутелла|20|1 ст. ложка|U:Chocolate-flavored hazelnut spread
+orehi|Изюм|изюм кишмиш|30|1 горсть|U:Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)
+orehi|Курага|абрикосы сушёные|30|5 шт.|U:Apricots, dried, sulfured, uncooked
+orehi|Чернослив|сливы сушёные|30|4 шт.|U:Plums, dried (prunes), uncooked
+orehi|Финики сушёные|финики|8|1 шт.|U:Dates, deglet noor
+orehi|Инжир сушёный|инжир вяленый|20|1 шт.|U:Figs, dried, uncooked
+orehi|Клюква сушёная|клюква вяленая|30|1 горсть|U:Cranberries, dried, sweetened
+orehi|Яблоки сушёные|сушёные яблоки, сухофрукты|30|1 горсть|U:Apples, dried, sulfured, uncooked
+orehi|Банановые чипсы|банан сушёный|30|1 горсть|U:Bananas, dehydrated, or banana powder
+orehi|Цукаты|фрукты засахаренные|20|1 ст. ложка|U:Candied fruit
+orehi|Смесь орехов|ореховая смесь|30|1 горсть|U:Nuts, mixed nuts, dry roasted, with peanuts, without salt added
+orehi|Козинак подсолнечный|козинаки|50|1 батончик|R:576/15.0/42.0/34.0
+orehi|Халва подсолнечная|халва|30|1 кусок|R:516/11.6/29.7/54.0

@@ -1,0 +1,75 @@
+ovoshi|Картофель (сырой)|картошка, картофель|150|1 клубень средний|U:Potatoes, flesh and skin, raw
+ovoshi|Картофель отварной|картошка варёная, картофель в мундире|150|1 клубень|U:Potatoes, boiled, cooked in skin, flesh, without salt
+ovoshi|Картофель запечённый|печёная картошка|150|1 клубень|U:Potatoes, baked, flesh and skin, without salt
+ovoshi|Картофельное пюре (с молоком и маслом)|пюре картофельное, толчёнка|200|1 порция|U:Potatoes, mashed, home-prepared, whole milk and butter added
+ovoshi|Картофель жареный (на сковороде)|жареная картошка|150|1 порция|R:192/2.8/9.5/23.4
+ovoshi|Батат (сладкий картофель)|батат, сладкий картофель|150|1 шт. средний|U:Sweet potato, raw, unprepared
+ovoshi|Морковь|морковка|80|1 шт. средняя|U:Carrots, raw
+ovoshi|Морковь варёная|морковь отварная|80|1 шт.|U:Carrots, cooked, boiled, drained, without salt
+ovoshi|Морковь по-корейски|корейская морковь, морковча|100|1 порция|R:134/1.2/9.6/10.5
+ovoshi|Свёкла|свекла|150|1 шт. средняя|U:Beets, raw
+ovoshi|Свёкла варёная|свекла отварная|150|1 шт.|U:Beets, cooked, boiled, drained
+ovoshi|Капуста белокочанная|капуста свежая|100|1 порция|U:Cabbage, raw
+ovoshi|Капуста квашеная|квашеная капуста, кислая капуста|100|1 порция|U:Sauerkraut, canned, solids and liquids
+ovoshi|Капуста тушёная|тушёная капуста|200|1 порция|R:75/2.0/3.4/9.6
+ovoshi|Капуста краснокочанная|красная капуста|100|1 порция|U:Cabbage, red, raw
+ovoshi|Капуста пекинская|пекинская капуста|100|1 порция|U:Cabbage, chinese (pe-tsai), raw
+ovoshi|Капуста брокколи|брокколи|100|1 порция|U:Broccoli, raw
+ovoshi|Брокколи варёная|брокколи отварная|100|1 порция|U:Broccoli, cooked, boiled, drained, without salt
+ovoshi|Капуста цветная|цветная капуста|100|1 порция|U:Cauliflower, raw
+ovoshi|Капуста брюссельская|брюссельская капуста|100|1 порция|U:Brussels sprouts, raw
+ovoshi|Капуста кольраби|кольраби|100|1 порция|U:Kohlrabi, raw
+ovoshi|Огурец|огурцы, огурец свежий|100|1 шт. средний|U:Cucumber, with peel, raw
+ovoshi|Огурец солёный|огурцы малосольные, солёные огурцы|60|1 шт.|U:Pickles, cucumber, dill or kosher dill
+ovoshi|Помидор|томат, помидоры|120|1 шт. средний|U:Tomatoes, red, ripe, raw, year round average
+ovoshi|Помидоры черри|черри, томаты черри|15|1 шт.|U:Tomatoes, red, ripe, raw, year round average
+ovoshi|Томаты вяленые|вяленые помидоры|10|1 шт.|U:Tomatoes, sun-dried
+ovoshi|Перец болгарский красный|сладкий перец, паприка свежая|150|1 шт.|U:Peppers, sweet, red, raw
+ovoshi|Перец болгарский зелёный|перец зелёный|150|1 шт.|U:Peppers, sweet, green, raw
+ovoshi|Перец чили|острый перец|15|1 шт.|U:Peppers, hot chili, red, raw
+ovoshi|Кабачок|кабачки, цукини|200|1 шт. небольшой|U:Squash, summer, zucchini, includes skin, raw
+ovoshi|Баклажан|баклажаны, синенькие|250|1 шт.|U:Eggplant, raw
+ovoshi|Икра кабачковая|кабачковая икра|50|2 ст. ложки|R:97/1.2/7.0/7.4
+ovoshi|Икра баклажанная|баклажанная икра|50|2 ст. ложки|R:148/1.7/13.3/5.1
+ovoshi|Тыква|тыква свежая|150|1 порция|U:Pumpkin, raw
+ovoshi|Лук репчатый|лук, луковица|80|1 луковица|U:Onions, raw
+ovoshi|Лук зелёный|зелёный лук, перо лука|10|1 пучок небольшой|U:Onions, spring or scallions (includes tops and bulb), raw
+ovoshi|Лук-порей|порей|50|1 порция|U:Leeks, (bulb and lower leaf-portion), raw
+ovoshi|Чеснок|чеснок свежий|5|1 зубчик|U:Garlic, raw
+ovoshi|Редис|редиска|20|1 шт.|U:Radishes, raw
+ovoshi|Редька|редька чёрная, дайкон|100|1 порция|U:Radishes, oriental, raw
+ovoshi|Репа|репа|100|1 порция|U:Turnips, raw
+ovoshi|Сельдерей стеблевой|сельдерей черешковый|40|1 стебель|U:Celery, raw
+ovoshi|Сельдерей корневой|корень сельдерея|100|1 порция|U:Celeriac, raw
+ovoshi|Спаржа|спаржа зелёная|100|1 порция|U:Asparagus, raw
+ovoshi|Фасоль стручковая|стручковая фасоль, зелёная фасоль|100|1 порция|U:Beans, snap, green, raw
+ovoshi|Горошек зелёный (замороженный)|зелёный горошек|80|1 порция|U:Peas, green, frozen, unprepared
+ovoshi|Горошек консервированный|горошек в банке|80|1/2 банки (слитый)|U:Peas, green, canned, drained solids, rinsed in tap water
+ovoshi|Кукуруза сладкая (початок)|кукуруза, початок|150|1 початок (зёрна)|U:Corn, sweet, yellow, raw
+ovoshi|Кукуруза консервированная|кукуруза в банке|80|1/2 банки (слитая)|U:Corn, sweet, yellow, canned, whole kernel, drained solids
+ovoshi|Шпинат|шпинат свежий|30|1 горсть|U:Spinach, raw
+ovoshi|Салат листовой|салат латук, айсберг, салат|20|несколько листьев|U:Lettuce, green leaf, raw
+ovoshi|Салат айсберг|айсберг|50|1 порция|U:Lettuce, iceberg (includes crisphead types), raw
+ovoshi|Руккола|рукола|20|1 горсть|U:Arugula, raw
+ovoshi|Укроп|укроп свежий|5|1 веточка|U:Dill weed, fresh
+ovoshi|Петрушка|петрушка зелень|5|1 веточка|U:Parsley, fresh
+ovoshi|Кинза|кориандр зелень, кинза свежая|5|1 веточка|U:Coriander (cilantro) leaves, raw
+ovoshi|Базилик|базилик свежий|3|несколько листьев|U:Basil, fresh
+ovoshi|Щавель|щавель свежий|50|1 порция|U:Dock, raw
+ovoshi|Авокадо|авокадо хасс|150|1 шт. (мякоть)|U:Avocados, raw, all commercial varieties
+ovoshi|Оливки зелёные|оливки, маслины зелёные|4|1 шт.|U:Olives, pickled, canned or bottled, green
+ovoshi|Маслины чёрные|маслины|4|1 шт.|U:Olives, ripe, canned (small-extra large)
+ovoshi|Имбирь (корень)|имбирь свежий|5|1 кусочек|U:Ginger root, raw
+ovoshi|Хрен|хрен тёртый|10|1 ч. ложка с горкой|U:Horseradish, prepared
+ovoshi|Пастернак|пастернак|100|1 порция|U:Parsnips, raw
+ovoshi|Ростки сои|соевые ростки|50|1 порция|U:Soybeans, mature seeds, sprouted, raw
+ovoshi|Шампиньоны|шампиньоны свежие, грибы|100|1 порция|U:Mushrooms, white, raw
+ovoshi|Шампиньоны жареные|грибы жареные|100|1 порция|U:Mushrooms, white, stir-fried
+ovoshi|Вешенки|вешенка|100|1 порция|U:Mushrooms, oyster, raw
+ovoshi|Шиитаке|грибы шиитаке|100|1 порция|U:Mushrooms, shiitake, raw
+ovoshi|Белые грибы|белый гриб, боровик|100|1 порция|R:34/3.7/1.7/1.1
+ovoshi|Лисички|лисичка|100|1 порция|U:Mushrooms, Chanterelle, raw
+ovoshi|Опята|опёнок|100|1 порция|R:22/2.2/1.2/0.5
+ovoshi|Грибы маринованные|маринованные опята, маринованные грибы|50|1 порция|R:24/2.3/1.1/1.0
+ovoshi|Смесь овощей замороженная|овощная смесь, мексиканская смесь|150|1 порция|U:Vegetables, mixed, frozen, unprepared
+ovoshi|Тофу|соевый творог, тофу твёрдый|100|1 порция|U:Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)

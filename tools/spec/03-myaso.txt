@@ -1,0 +1,68 @@
+myaso|Куриная грудка (сырая)|филе куриное, грудка курицы, куриное филе|150|1 филе|U:Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw
+myaso|Куриная грудка варёная|грудка отварная, курица отварная|150|1 филе|U:Chicken, broilers or fryers, breast, meat only, cooked, stewed
+myaso|Куриная грудка жареная/на гриле|грудка гриль, филе жареное|130|1 филе|U:Chicken, broilers or fryers, breast, meat only, cooked, roasted
+myaso|Куриное бедро без кожи (сырое)|бедро куриное, филе бедра|100|1 бедро|U:Chicken, broilers or fryers, dark meat, thigh, meat only, raw
+myaso|Куриное бедро с кожей запечённое|бедро запечённое|110|1 бедро|U:Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted
+myaso|Куриная голень запечённая|голень, ножка куриная|75|1 голень (без кости)|U:Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted
+myaso|Куриные крылья запечённые|крылышки куриные|35|1 крыло (без кости)|U:Chicken, broilers or fryers, wing, meat and skin, cooked, roasted
+myaso|Курица целая с кожей (сырая)|тушка курицы, бройлер|200|1 порция|U:Chicken, broilers or fryers, meat and skin, raw
+myaso|Курица запечённая с кожей|курица гриль, курица в духовке|200|1 порция|U:Chicken, broilers or fryers, meat and skin, cooked, roasted
+myaso|Куриная печень|печёнка куриная|100|1 порция|U:Chicken, liver, all classes, raw
+myaso|Куриные сердечки|сердечки куриные|100|1 порция|U:Chicken, heart, all classes, raw
+myaso|Куриные желудки|пупки куриные|100|1 порция|U:Chicken, gizzard, all classes, raw
+myaso|Фарш куриный|куриный фарш|100|1 порция|U:Chicken, ground, raw
+myaso|Индейка, филе грудки (сырое)|филе индейки, грудка индейки|150|1 порция|U:Turkey, whole, breast, meat only, raw
+myaso|Индейка запечённая (грудка)|индейка жареная|150|1 порция|U:Turkey, whole, breast, meat only, cooked, roasted
+myaso|Фарш из индейки|фарш индюшиный|100|1 порция|U:Turkey, ground, raw
+myaso|Утка с кожей (сырая)|утятина|150|1 порция|U:Duck, domesticated, meat and skin, raw
+myaso|Утка запечённая без кожи|утка жареная|150|1 порция|U:Duck, domesticated, meat only, cooked, roasted
+myaso|Гусь с кожей (сырой)|гусятина|150|1 порция|U:Goose, domesticated, meat and skin, raw
+myaso|Перепел (сырой)|перепёлка|100|1 тушка|U:Quail, meat and skin, raw
+myaso|Кролик (сырой)|крольчатина|150|1 порция|U:Game meat, rabbit, domesticated, composite of cuts, raw
+myaso|Говядина вырезка (сырая)|говяжья вырезка, филе говядины|150|1 порция|U:Beef, tenderloin, steak, separable lean only, trimmed to 1/8" fat, all grades, raw
+myaso|Говядина постная (сырая)|говядина нежирная, мякоть говядины|150|1 порция|U:Beef, round, top round steak, boneless, separable lean only, trimmed to 0" fat, all grades, raw
+myaso|Говядина отварная|говядина варёная|120|1 порция|U:Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8" fat, all grades, cooked, braised
+myaso|Стейк рибай (жареный)|рибай, стейк из говядины|250|1 стейк|U:Beef, rib eye, small end (ribs 10-12), separable lean and fat, trimmed to 0" fat, all grades, cooked, broiled
+myaso|Фарш говяжий 15% жира|говяжий фарш|100|1 порция|U:Beef, ground, 85% lean meat / 15% fat, raw
+myaso|Фарш говяжий 20% жира (жареный)|фарш жареный|100|1 порция|U:Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned
+myaso|Говяжья печень|печень говяжья, печёнка|100|1 порция|U:Beef, variety meats and by-products, liver, raw
+myaso|Говяжий язык (отварной)|язык говяжий|100|1 порция|U:Beef, variety meats and by-products, tongue, cooked, simmered
+myaso|Говяжье сердце|сердце говяжье|100|1 порция|U:Beef, variety meats and by-products, heart, raw
+myaso|Телятина (сырая)|телятина мякоть|150|1 порция|U:Veal, composite of trimmed retail cuts, separable lean only, raw
+myaso|Свинина постная (вырезка, сырая)|свиная вырезка, свинина нежирная|150|1 порция|U:Pork, fresh, loin, tenderloin, separable lean only, raw
+myaso|Свиная корейка/отбивная (жареная)|свиная отбивная, корейка|150|1 отбивная|U:Pork, fresh, loin, center loin (chops), bone-in, separable lean and fat, cooked, pan-fried
+myaso|Свиная шея (сырая)|шейка свиная, свинина жирная|150|1 порция|U:Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean and fat, raw
+myaso|Свиная лопатка запечённая|свинина запечённая, буженина домашняя|120|1 порция|U:Pork, fresh, shoulder, whole, separable lean and fat, cooked, roasted
+myaso|Свиные рёбрышки запечённые|рёбра свиные|150|1 порция (без костей)|U:Pork, fresh, spareribs, separable lean and fat, cooked, braised
+myaso|Фарш свиной|свиной фарш|100|1 порция|U:Pork, fresh, ground, raw
+myaso|Фарш свино-говяжий|фарш домашний, смешанный фарш|100|1 порция|R:263/17.0/21.4/0
+myaso|Свиная печень|печень свиная|100|1 порция|U:Pork, fresh, variety meats and by-products, liver, raw
+myaso|Сало свиное|сало солёное, шпик|20|1 ломтик|U:Pork, fresh, backfat, raw
+myaso|Бекон жареный|бекон|8|1 ломтик|U:Pork, cured, bacon, pre-sliced, cooked, pan-fried
+myaso|Бекон сырокопчёный|грудинка копчёная|15|1 ломтик|U:Pork, cured, bacon, unprepared
+myaso|Баранина (сырая)|баранина мякоть|150|1 порция|U:Lamb, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4" fat, choice, raw
+myaso|Баранина запечённая|баранина жареная, корейка ягнёнка|120|1 порция|U:Lamb, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4" fat, choice, cooked
+myaso|Фарш бараний|фарш из баранины|100|1 порция|U:Lamb, ground, raw
+myaso|Оленина (сырая)|оленина мясо|150|1 порция|U:Game meat, deer, raw
+myaso|Конина (сырая)|конина мясо|150|1 порция|U:Game meat, horse, raw
+myaso|Колбаса варёная (докторская)|докторская колбаса, варёная колбаса|30|1 ломтик|R:257/12.8/22.2/1.5
+myaso|Колбаса молочная|молочная колбаса|30|1 ломтик|R:252/11.7/22.8/0
+myaso|Колбаса сервелат варёно-копчёный|сервелат|10|1 ломтик|R:461/24.0/40.5/0
+myaso|Колбаса сырокопчёная (салями)|салями, сырокопчёная колбаса|10|1 ломтик|U:Salami, dry or hard, pork, beef
+myaso|Колбаса полукопчёная (краковская)|краковская колбаса, полукопчёная|20|1 ломтик|R:466/16.2/44.6/0
+myaso|Пепперони|колбаса пепперони|10|5 ломтиков|U:Pepperoni, beef and pork, sliced
+myaso|Сосиски молочные|сосиска|50|1 шт.|R:266/11.0/23.9/1.6
+myaso|Сардельки|сарделька|90|1 шт.|R:332/10.1/31.6/1.9
+myaso|Сосиски куриные|куриная сосиска|50|1 шт.|U:Frankfurter, chicken
+myaso|Ветчина варёная|ветчина|25|1 ломтик|U:Ham, sliced, pre-packaged, deli meat (96%fat free, water added)
+myaso|Ветчина копчёная (жирность ~11%)|ветчина в нарезке|25|1 ломтик|U:Ham, sliced, regular (approximately 11% fat)
+myaso|Буженина|свинина варёная, карбонад|25|1 ломтик|R:220/19.8/15.8/0
+myaso|Колбаса ливерная|ливерная колбаса, ливерка|30|1 ломтик|U:Liverwurst spread
+myaso|Паштет печёночный|паштет из печени|30|1 ст. ложка|U:Pate, liver, not specified, canned
+myaso|Тушёнка говяжья|говядина тушёная консервированная|100|1/3 банки|R:220/16.8/17.0/0
+myaso|Холодец (студень говяжий)|студень, заливное|150|1 порция|R:80/12.1/3.2/0.8
+myaso|Шашлык из курицы|куриный шашлык|150|1 порция|R:156/18.4/8.4/1.6
+myaso|Шашлык из свинины|свиной шашлык|150|1 порция|R:261/20.2/19.8/0.7
+myaso|Наггетсы куриные (запечённые)|наггетсы|20|1 шт.|U:Chicken, nuggets, white meat, precooked, frozen, not reheated
+myaso|Пельмени мясные (сырые)|пельмени, полуфабрикат|20|1 шт. (12 шт. = порция)|R:275/11.9/12.4/29.0
+myaso|Котлеты куриные (жареные)|котлета из курицы|80|1 шт.|R:190/16.0/10.5/7.6

@@ -1,0 +1,38 @@
+masla|Масло подсолнечное|растительное масло, подсолнечное масло|10|1 ст. ложка|U:Oil, sunflower, linoleic, (approx. 65%)
+masla|Масло оливковое|оливковое масло|10|1 ст. ложка|U:Oil, olive, salad or cooking
+masla|Масло кокосовое|кокосовое масло|10|1 ст. ложка|U:Oil, coconut
+masla|Масло льняное|льняное масло|10|1 ст. ложка|U:Oil, flaxseed, cold pressed
+masla|Масло кукурузное|кукурузное масло|10|1 ст. ложка|U:Oil, corn, industrial and retail, all purpose salad or cooking
+masla|Маргарин|спред, маргарин сливочный|10|1 ч. ложка с горкой|U:Margarine, regular, 80% fat, composite, stick, with salt
+masla|Майонез 67%|майонез провансаль|15|1 ст. ложка|R:624/0.4/67.0/3.9
+masla|Майонез лёгкий 30%|майонез низкокалорийный|15|1 ст. ложка|R:302/0.5/30.0/7.0
+masla|Кетчуп|томатный кетчуп|15|1 ст. ложка|U:Catsup
+masla|Томатная паста|томат-паста|15|1 ст. ложка|U:Tomato products, canned, paste, without salt added
+masla|Горчица|горчица столовая|5|1 ч. ложка|U:Mustard, prepared, yellow
+masla|Соевый соус|соус соевый|15|1 ст. ложка|U:Soy sauce made from soy and wheat (shoyu)
+masla|Соус песто|песто|15|1 ст. ложка|U:Sauce, pesto, ready-to-serve, refrigerated
+masla|Соус барбекю|барбекю|17|1 ст. ложка|U:Sauce, barbecue
+masla|Соус терияки|терияки|18|1 ст. ложка|U:Sauce, teriyaki, ready-to-serve
+masla|Соус сырный|сырный соус|30|1 порция|U:Sauce, cheese, ready-to-serve
+masla|Соус цезарь|заправка цезарь|15|1 ст. ложка|U:Salad dressing, caesar dressing, regular
+masla|Соус ранч / чесночный|чесночный соус|15|1 ст. ложка|U:Salad dressing, ranch dressing, regular
+masla|Соус тартар|тартар|15|1 ст. ложка|U:Sauce, tartar, ready-to-serve
+masla|Соус томатный для пасты|соус маринара, соус болоньезе без мяса|125|1/2 стакана|U:Sauce, pasta, spaghetti/marinara, ready-to-serve
+masla|Соус хрен-сметана|хреновина|15|1 ст. ложка|R:114/2.0/9.2/5.6
+masla|Аджика|аджика острая|10|1 ч. ложка с горкой|R:59/1.0/3.7/5.8
+masla|Ткемали|соус ткемали|15|1 ст. ложка|R:52/0.3/0.1/12.5
+masla|Хумус|хумус из нута|30|2 ст. ложки|U:Hummus, commercial
+masla|Соус сметанный с зеленью|сметанный соус|30|2 ст. ложки|R:142/2.4/13.2/3.6
+masla|Сахар|сахар-песок, рафинад|5|1 ч. ложка / 1 кубик|U:Sugars, granulated
+masla|Сахар тростниковый|коричневый сахар|5|1 ч. ложка|U:Sugars, brown
+masla|Сахарная пудра|пудра сахарная|8|1 ст. ложка|U:Sugars, powdered
+masla|Мёд|мед, мёд цветочный|12|1 ч. ложка с горкой|U:Honey
+masla|Сироп кленовый|кленовый сироп|20|1 ст. ложка|U:Syrups, maple
+masla|Уксус столовый|уксус|15|1 ст. ложка|U:Vinegar, distilled
+masla|Уксус бальзамический|бальзамик|15|1 ст. ложка|U:Vinegar, balsamic
+masla|Желатин|желатин пищевой|10|1 ст. ложка|U:Gelatins, dry powder, unsweetened
+masla|Дрожжи сухие|дрожжи|7|1 пакетик|U:Leavening agents, yeast, baker's, active dry
+masla|Какао-порошок|какао|5|1 ч. ложка|U:Cocoa, dry powder, unsweetened
+masla|Корица|корица молотая|3|1 ч. ложка|U:Spices, cinnamon, ground
+masla|Перец чёрный молотый|чёрный перец|2|1 ч. ложка без горки|U:Spices, pepper, black
+masla|Паприка молотая|паприка|2|1 ч. ложка|U:Spices, paprika

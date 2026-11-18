@@ -1,0 +1,40 @@
+napitki|Вода|вода питьевая, минеральная вода|250|1 стакан|U:Beverages, water, tap, drinking
+napitki|Чай чёрный без сахара|чай, чай чёрный|200|1 чашка|U:Beverages, tea, black, brewed, prepared with tap water
+napitki|Чай зелёный без сахара|зелёный чай|200|1 чашка|U:Beverages, tea, green, brewed, regular
+napitki|Чай с сахаром (1 ч. л. на чашку)|сладкий чай|200|1 чашка|R:10/0/0/2.5
+napitki|Кофе чёрный (американо)|кофе, американо, фильтр-кофе|200|1 чашка|U:Beverages, coffee, brewed, prepared with tap water
+napitki|Эспрессо|кофе эспрессо|30|1 порция|U:Beverages, coffee, brewed, espresso, restaurant-prepared
+napitki|Кофе растворимый (порошок)|растворимый кофе|2|1 ч. ложка|U:Beverages, coffee, instant, regular, powder
+napitki|Капучино (молоко 2,5%)|капучино|250|1 чашка|R:31/1.7/1.4/2.7
+napitki|Латте (молоко 2,5%)|латте, кофе с молоком|300|1 стакан|R:42/2.3/2.0/3.6
+napitki|Какао на молоке|какао с молоком, горячий шоколад|250|1 кружка|R:76/3.2/3.0/9.0
+napitki|Кола|кока-кола, пепси, газировка|330|1 банка|U:Beverages, carbonated, cola, regular
+napitki|Кола без сахара|кола зеро, кола лайт|330|1 банка|U:Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, contains caffeine
+napitki|Лимонад газированный (спрайт)|спрайт, лимонад, газировка лимонная|330|1 банка|U:Beverages, carbonated, SPRITE, lemon-lime, without caffeine
+napitki|Тоник|тоник|250|1 стакан|U:Beverages, carbonated, tonic water
+napitki|Энергетик|энергетический напиток, ред булл|250|1 банка|U:Beverages, Energy drink, RED BULL
+napitki|Изотоник (спортивный напиток)|гаторейд, изотоник|500|1 бутылка|U:Beverages, PEPSICO QUAKER, Gatorade, G performance O 2, ready-to-drink.
+napitki|Сок апельсиновый|апельсиновый сок|250|1 стакан|U:Orange juice, canned, unsweetened
+napitki|Сок апельсиновый свежевыжатый|фреш апельсиновый|250|1 стакан|U:Orange juice, raw
+napitki|Сок яблочный|яблочный сок|250|1 стакан|U:Apple juice, canned or bottled, unsweetened, without added ascorbic acid
+napitki|Сок томатный|томатный сок|250|1 стакан|U:Tomato juice, canned, with salt added
+napitki|Сок виноградный|виноградный сок|250|1 стакан|U:Grape juice, canned or bottled, unsweetened, without added ascorbic acid
+napitki|Сок ананасовый|ананасовый сок|250|1 стакан|U:Pineapple juice, canned or bottled, unsweetened, without added ascorbic acid
+napitki|Морс клюквенный|клюквенный морс|250|1 стакан|U:Cranberry juice cocktail, bottled
+napitki|Компот из сухофруктов|компот, узвар|250|1 стакан|R:60/0.3/0/14.7
+napitki|Кисель|кисель ягодный|250|1 стакан|R:53/0/0/13.2
+napitki|Квас хлебный|квас|500|1 бутылка 0,5 л|R:27/0.2/0/5.2/0.7
+napitki|Кокосовая вода|кокосовая вода|330|1 пачка|U:Beverages, Coconut water, ready-to-drink, unsweetened
+napitki|Смузи фруктовый|смузи|300|1 стакан|U:Fruit juice smoothie, BOLTHOUSE FARMS, strawberry banana
+napitki|Молоко соевое|соевое молоко|250|1 стакан|U:Soymilk, original and vanilla, with added calcium, vitamins A and D
+napitki|Молоко миндальное (сладкое)|миндальное молоко|250|1 стакан|U:Beverages, almond milk, sweetened, vanilla flavor, ready-to-drink
+napitki|Молоко шоколадное|шоколадное молоко, несквик|250|1 стакан|U:Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D
+napitki|Пиво светлое|пиво|500|1 бокал 0,5 л|U:Alcoholic beverage, beer, regular, all
+napitki|Пиво лёгкое (лайт)|светлое лёгкое пиво|500|1 бокал 0,5 л|U:Alcoholic beverage, beer, light
+napitki|Вино красное сухое|красное вино|150|1 бокал|U:Alcoholic beverage, wine, table, red
+napitki|Вино белое сухое|белое вино|150|1 бокал|U:Alcoholic beverage, wine, table, white
+napitki|Вино десертное сладкое|портвейн, кагор, десертное вино|100|1 бокал|U:Alcoholic beverage, wine, dessert, sweet
+napitki|Шампанское брют|игристое вино|150|1 бокал|R:70/0.2/0/1.5/9.0
+napitki|Водка 40%|водка, коньяк, виски, ром, джин|50|1 рюмка|U:Alcoholic beverage, distilled, vodka, 80 proof
+napitki|Ликёр кофейный|ликёр|30|1 рюмка|U:Alcoholic beverage, liqueur, coffee, 63 proof
+napitki|Сидр|сидр яблочный|330|1 бутылка|R:49/0/0/4.0/4.7

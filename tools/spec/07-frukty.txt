@@ -1,0 +1,54 @@
+frukty|Яблоко|яблоки, яблоко зелёное, яблоко красное|180|1 шт. среднее|U:Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)
+frukty|Яблоко печёное|печёное яблоко|150|1 шт.|U:Apples, raw, without skin, cooked, microwave
+frukty|Груша|груши|170|1 шт. средняя|U:Pears, raw
+frukty|Банан|бананы|120|1 шт. средний (без кожуры)|U:Bananas, raw
+frukty|Апельсин|апельсины|150|1 шт. (без кожуры)|U:Oranges, raw, all commercial varieties
+frukty|Мандарин|мандарины|75|1 шт. (без кожуры)|U:Tangerines, (mandarin oranges), raw
+frukty|Грейпфрут|грейпфрут розовый|250|1/2 плода|U:Grapefruit, raw, pink and red, all areas
+frukty|Помело|помело мякоть|200|1 порция|U:Pummelo, raw
+frukty|Лимон|лимоны|60|1 шт. (без кожуры)|U:Lemons, raw, without peel
+frukty|Лайм|лайм|45|1 шт.|U:Limes, raw
+frukty|Киви|киви|75|1 шт.|U:Kiwifruit, green, raw
+frukty|Ананас|ананас свежий|150|1 порция|U:Pineapple, raw, all varieties
+frukty|Ананас консервированный|ананас в сиропе|100|1 порция|U:Pineapple, canned, heavy syrup pack, solids and liquids
+frukty|Манго|манго|200|1 шт. (мякоть)|U:Mangos, raw
+frukty|Папайя|папайя|150|1 порция|U:Papayas, raw
+frukty|Персик|персики|150|1 шт.|U:Peaches, yellow, raw
+frukty|Персики консервированные|персики в сиропе|100|1 порция|U:Peaches, canned, heavy syrup pack, solids and liquids
+frukty|Нектарин|нектарины|140|1 шт.|U:Nectarines, raw
+frukty|Абрикос|абрикосы|35|1 шт.|U:Apricots, raw
+frukty|Слива|сливы|30|1 шт.|U:Plums, raw
+frukty|Вишня|вишня свежая|100|1 горсть (без косточек)|U:Cherries, sour, red, raw
+frukty|Черешня|черешня свежая|100|1 горсть|U:Cherries, sweet, raw
+frukty|Виноград|виноград зелёный, виноград красный|150|1 гроздь небольшая|U:Grapes, red or green (European type, such as Thompson seedless), raw
+frukty|Арбуз|арбуз мякоть|300|1 ломоть (мякоть)|U:Watermelon, raw
+frukty|Дыня|дыня мякоть|200|1 ломоть|U:Melons, cantaloupe, raw
+frukty|Дыня медовая (ханидью)|ханидью|200|1 ломоть|U:Melons, honeydew, raw
+frukty|Хурма|хурма королёк|200|1 шт.|U:Persimmons, japanese, raw
+frukty|Гранат|гранат зёрна|150|1/2 плода (зёрна)|U:Pomegranates, raw
+frukty|Инжир свежий|смоква|50|1 шт.|U:Figs, raw
+frukty|Финики свежие (медджул)|финик медджул|24|1 шт.|U:Dates, medjool
+frukty|Айва|айва|150|1 шт.|U:Quinces, raw
+frukty|Фейхоа|фейхоа|30|1 шт.|U:Feijoa, raw
+frukty|Личи|личи|10|1 шт.|U:Litchis, raw
+frukty|Маракуйя|маракуйя мякоть|20|1 шт.|U:Passion-fruit, (granadilla), purple, raw
+frukty|Гуава|гуайява|55|1 шт.|U:Guavas, common, raw
+frukty|Кокос (мякоть)|кокосовая мякоть|30|1 кусочек|U:Nuts, coconut meat, raw
+frukty|Клубника|клубника свежая, земляника садовая|150|1 стакан|U:Strawberries, raw
+frukty|Малина|малина свежая|125|1 стакан|U:Raspberries, raw
+frukty|Черника|черника свежая|150|1 стакан|U:Blueberries, raw
+frukty|Ежевика|ежевика|150|1 стакан|U:Blackberries, raw
+frukty|Смородина чёрная|чёрная смородина|110|1 стакан|U:Currants, european black, raw
+frukty|Смородина красная|красная смородина|110|1 стакан|U:Currants, red and white, raw
+frukty|Крыжовник|крыжовник|150|1 стакан|U:Gooseberries, raw
+frukty|Клюква|клюква свежая|100|1 стакан|U:Cranberries, raw
+frukty|Брусника|брусника|100|1 стакан|R:46/0.7/0.5/8.2
+frukty|Облепиха|облепиха|100|1 стакан|R:82/1.2/5.4/5.7
+frukty|Шиповник (свежий)|шиповник|20|1 горсть|R:109/1.6/0.7/22.4
+frukty|Голубика|голубика|150|1 стакан|R:39/1.0/0.5/6.6
+frukty|Морошка|морошка|100|1 стакан|R:40/0.8/0.9/7.4
+frukty|Фруктовый коктейль консервированный|фрукты в сиропе|100|1 порция|U:Fruit cocktail, canned, heavy syrup, drained
+frukty|Шелковица|шелковица, тутовник|100|1 стакан|U:Mulberries, raw
+frukty|Рябина красная|рябина|50|1 горсть|R:50/1.4/0.2/8.9
+frukty|Варенье (среднее)|варенье, джем, конфитюр|20|1 ст. ложка|U:Jams and preserves
+frukty|Фруктовое пюре детское (яблоко)|пюре яблочное|90|1 пачка|U:Applesauce, canned, unsweetened, without added ascorbic acid (Includes foods for USDA's Food Distribution Program)

@@ -1,0 +1,43 @@
+fastfood|Бургер Биг Мак / Биг Хит|биг мак, бигмак, биг хит, бургер|219|1 шт.|U:McDONALD'S, BIG MAC
+fastfood|Гамбургер (сетевой)|гамбургер, бургер простой|100|1 шт.|U:McDONALD'S, Hamburger
+fastfood|Чизбургер (сетевой)|чизбургер|114|1 шт.|U:McDONALD'S, Cheeseburger
+fastfood|Двойной чизбургер|двойной чизбургер|165|1 шт.|U:McDONALD'S, Double Cheeseburger
+fastfood|Четверной / Роял с сыром|роял чизбургер, квотер паундер|200|1 шт.|U:McDONALD'S, QUARTER POUNDER with Cheese
+fastfood|Филе-о-фиш / Фиш бургер|рыбный бургер, филе о фиш|136|1 шт.|U:McDONALD'S, FILET-O-FISH
+fastfood|Макчикен / Чикен бургер|чикенбургер, бургер с курицей|143|1 шт.|U:McDONALD'S, McCHICKEN Sandwich
+fastfood|Воппер|воппер, вопер|270|1 шт.|U:BURGER KING, WHOPPER, no cheese
+fastfood|Воппер с сыром|воппер с сыром|290|1 шт.|U:BURGER KING, WHOPPER, with cheese
+fastfood|Двойной воппер|двойной воппер|350|1 шт.|U:BURGER KING, DOUBLE WHOPPER, no cheese
+fastfood|Картофель фри|фри, картошка фри|110|1 средняя порция|U:McDONALD'S, french fries
+fastfood|Картофель фри (Бургер Кинг)|кинг фри|116|1 средняя порция|U:BURGER KING, french fries
+fastfood|Наггетсы (сетевые)|чикен наггетс, макнаггетс|96|6 шт.|U:McDONALD'S, Chicken McNUGGETS
+fastfood|Стрипсы куриные|стрипсы|100|3 шт.|U:KFC, Crispy Chicken Strips
+fastfood|Попкорн куриный|баскет попкорн|100|1 порция|U:KFC, Popcorn Chicken
+fastfood|Курица жареная в панировке (грудка)|ножка KFC, жареная курица|160|1 кусок|U:KFC, Fried Chicken, ORIGINAL RECIPE, Breast, meat and skin with breading
+fastfood|Куриные крылья острые в панировке|крылья KFC|35|1 крыло|U:KFC, Fried Chicken, EXTRA CRISPY, Wing, meat and skin with breading
+fastfood|Луковые кольца|кольца лука фри|90|1 порция|U:BURGER KING, Onion Rings
+fastfood|Пицца Маргарита (сетевая)|пицца сырная, маргарита|105|1 кусок (1/8 пиццы 35 см)|U:Fast Food, Pizza Chain, 14" pizza, cheese topping, regular crust
+fastfood|Пицца Пепперони|пепперони пицца|105|1 кусок (1/8 пиццы 35 см)|U:Fast Food, Pizza Chain, 14" pizza, pepperoni topping, regular crust
+fastfood|Пицца с колбасой и овощами|пицца мясная, пицца ассорти|110|1 кусок|U:Fast Food, Pizza Chain, 14" pizza, meat and vegetable topping, regular crust
+fastfood|Пицца на тонком тесте с колбасой|пицца тонкая|90|1 кусок|U:Fast Food, Pizza Chain, 14" pizza, sausage topping, thin crust
+fastfood|Хот-дог|хотдог, хот дог|100|1 шт.|R:257/9.6/13.9/23.2
+fastfood|Шаурма с курицей|шаверма, шаурма|350|1 шт.|R:215/9.5/9.5/23.0
+fastfood|Шаурма со свининой|шаверма со свининой|350|1 шт.|R:240/10.0/12.5/22.0
+fastfood|Донер кебаб в лепёшке|донер, кебаб|300|1 шт.|R:226/11.5/10.4/21.5
+fastfood|Ролл с курицей (твистер)|твистер, ролл куриный|200|1 шт.|U:Fast foods, crispy chicken in tortilla, with lettuce, cheese, and ranch sauce
+fastfood|Сэндвич саб с курицей|сабвей, саб с курицей|220|1 сэндвич 15 см|U:Fast foods, submarine sandwich, oven roasted chicken on white bread with lettuce and tomato
+fastfood|Сэндвич саб с ветчиной|саб с ветчиной|220|1 сэндвич 15 см|U:Fast foods, submarine sandwich, ham on white bread with lettuce and tomato
+fastfood|Тако с говядиной|тако|80|1 шт.|U:Fast foods, taco with beef, cheese and lettuce, hard shell
+fastfood|Буррито с говядиной и фасолью|буррито|200|1 шт.|U:Fast foods, burrito, with beans and beef
+fastfood|Кесадилья с курицей|кесадилья|180|1 шт.|U:Fast foods, quesadilla, with chicken
+fastfood|Начос с сыром|начос с сырным соусом|110|1 порция|U:Fast foods, nachos, with cheese
+fastfood|Хашбраун|картофельный оладушек|55|1 шт.|U:McDONALD'S, Hash Brown
+fastfood|Макмаффин с яйцом|маффин с яйцом, сэндвич с яйцом|135|1 шт.|U:McDONALD'S, Egg McMUFFIN
+fastfood|Панкейки сетевые с сиропом|хоткейкс|228|1 порция|U:McDONALD'S, Hotcakes (with 2 pats margarine & syrup)
+fastfood|Санде с шоколадом|мороженое санде|180|1 шт.|U:McDONALD'S, Hot Fudge Sundae
+fastfood|Макфлурри с печеньем|макфлури, мороженое с печеньем|185|1 шт.|U:McDONALD'S, McFLURRY with OREO cookies
+fastfood|Креветки в панировке|креветки темпура|100|1 порция|U:Fast foods, shrimp, breaded and fried
+fastfood|Ролл Калифорния|калифорния ролл, суши|30|1 кусочек|R:176/7.1/6.0/23.2
+fastfood|Ролл Филадельфия|филадельфия ролл|35|1 кусочек|R:190/7.5/8.5/21.0
+fastfood|Суши нигири с лососем|нигири, суши с лососем|35|1 шт.|R:168/7.8/3.4/26.5
+fastfood|Сэндвич с рыбой и соусом тартар|фиш сэндвич|160|1 шт.|U:Fast foods, fish sandwich, with tartar sauce

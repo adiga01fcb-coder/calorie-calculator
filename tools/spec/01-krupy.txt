@@ -1,0 +1,58 @@
+# cat|name|aliases|portion_g|portion_label|source
+krupy|Гречка (крупа сухая)|гречневая крупа, ядрица|70|1 порция крупы|R:308/12.6/3.3/57.1
+krupy|Гречка варёная|гречневая каша, гречка отварная|200|1 тарелка|U:Buckwheat groats, roasted, cooked
+krupy|Рис белый (сухой)|рис длиннозёрный, рис крупа|70|1 порция крупы|U:Rice, white, long-grain, regular, raw, enriched
+krupy|Рис белый варёный|рис отварной, рис гарнир|180|1 порция гарнира|U:Rice, white, long-grain, regular, enriched, cooked
+krupy|Рис бурый (сухой)|рис коричневый, нешлифованный рис|70|1 порция крупы|U:Rice, brown, long-grain, raw
+krupy|Рис бурый варёный|коричневый рис отварной|180|1 порция гарнира|U:Rice, brown, long-grain, cooked
+krupy|Рис круглозёрный для суши (варёный)|рис для суши, клейкий рис|150|1 порция|U:Rice, white, glutinous, unenriched, cooked
+krupy|Рис дикий (сухой)|дикий рис|70|1 порция крупы|U:Wild rice, raw
+krupy|Овсяные хлопья (сухие)|овсянка, геркулес, овсяная крупа|40|1 порция хлопьев|U:Cereals, oats, regular and quick, not fortified, dry
+krupy|Овсяная каша на воде|овсянка на воде, геркулес каша|250|1 тарелка|U:Cereals, oats, regular and quick, unenriched, cooked with water (includes boiling and microwaving), without salt
+krupy|Пшено (сухое)|пшённая крупа, просо|70|1 порция крупы|U:Millet, raw
+krupy|Пшённая каша на воде|пшено варёное|200|1 тарелка|U:Millet, cooked
+krupy|Булгур (сухой)|булгур крупа|70|1 порция крупы|U:Bulgur, dry
+krupy|Булгур варёный|булгур отварной|180|1 порция гарнира|U:Bulgur, cooked
+krupy|Киноа (сухая)|кинва, квиноа|70|1 порция крупы|U:Quinoa, uncooked
+krupy|Киноа варёная|квиноа отварная|180|1 порция гарнира|U:Quinoa, cooked
+krupy|Кускус (сухой)|кус-кус|70|1 порция крупы|U:Couscous, dry
+krupy|Кускус готовый|кускус варёный|160|1 порция гарнира|U:Couscous, cooked
+krupy|Манная крупа|манка (сухая)|20|1 ст. ложка с горкой|U:Semolina, enriched
+krupy|Манная каша на молоке 2,5%|манка на молоке|250|1 тарелка|R:98/3.0/3.2/15.3
+krupy|Перловка (сухая)|перловая крупа, ячмень перловый|70|1 порция крупы|U:Barley, pearled, raw
+krupy|Перловка варёная|перловая каша|180|1 порция гарнира|U:Barley, pearled, cooked
+krupy|Ячневая крупа (сухая)|ячка|70|1 порция крупы|R:313/10.0/1.3/65.4
+krupy|Кукурузная крупа (сухая)|полента, кукурузная мука|70|1 порция крупы|U:Cornmeal, degermed, enriched, yellow
+krupy|Макароны (сухие)|паста, спагетти, рожки, макаронные изделия|80|1 порция|U:Pasta, dry, enriched
+krupy|Макароны варёные|спагетти отварные, паста варёная|200|1 порция гарнира|U:Pasta, cooked, enriched, without added salt
+krupy|Макароны цельнозерновые варёные|цельнозерновая паста|200|1 порция гарнира|U:Pasta, whole-wheat, cooked
+krupy|Лапша яичная варёная|яичная лапша|200|1 порция|U:Noodles, egg, enriched, cooked
+krupy|Рисовая лапша (сухая)|фунчоза рисовая, рисовые нудлс|60|1 порция|U:Rice noodles, dry
+krupy|Рисовая лапша варёная|рисовая лапша отварная|200|1 порция|U:Rice noodles, cooked
+krupy|Лапша быстрого приготовления (сухая)|доширак, роллтон, бичпакет|90|1 брикет|U:Soup, ramen noodle, any flavor, dry
+krupy|Чечевица (сухая)|чечевица зелёная, чечевица коричневая|70|1 порция|U:Lentils, raw
+krupy|Чечевица красная (сухая)|красная чечевица|70|1 порция|U:Lentils, pink or red, raw
+krupy|Чечевица варёная|чечевица отварная|180|1 порция|U:Lentils, mature seeds, cooked, boiled, without salt
+krupy|Нут (сухой)|турецкий горох, бараний горох|70|1 порция|U:Chickpeas (garbanzo beans, bengal gram), mature seeds, raw
+krupy|Нут варёный|нут отварной|160|1 порция|U:Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt
+krupy|Горох колотый (сухой)|горох лущёный, горох для супа|70|1 порция|U:Peas, green, split, mature seeds, raw
+krupy|Горох варёный|гороховое пюре без масла|180|1 порция|U:Peas, split, mature seeds, cooked, boiled, without salt
+krupy|Фасоль красная (сухая)|фасоль кидни|70|1 порция|U:Beans, kidney, red, mature seeds, raw
+krupy|Фасоль красная варёная|фасоль отварная|160|1 порция|U:Beans, kidney, all types, mature seeds, cooked, boiled, without salt
+krupy|Фасоль консервированная|фасоль в банке|120|полбанки (слитая)|U:Beans, kidney, all types, mature seeds, canned
+krupy|Фасоль белая (сухая)|белая фасоль|70|1 порция|U:Beans, white, mature seeds, raw
+krupy|Фасоль чёрная варёная|чёрная фасоль|160|1 порция|U:Beans, black, mature seeds, cooked, boiled, without salt
+krupy|Соя (сухая)|соевые бобы|70|1 порция|U:Soybeans, mature seeds, raw
+krupy|Маш (сухой)|мунг, бобы мунг|70|1 порция|U:Mung beans, mature seeds, raw
+krupy|Мука пшеничная|мука высший сорт|130|1 стакан (200 мл)|U:Wheat flour, white, all-purpose, enriched, bleached
+krupy|Мука цельнозерновая|мука обойная|120|1 стакан (200 мл)|U:Wheat flour, whole-grain
+krupy|Мука гречневая|гречневая мука|120|1 стакан (200 мл)|U:Buckwheat flour, whole-groat
+krupy|Мука ржаная|ржаная мука|120|1 стакан (200 мл)|U:Rye flour, medium
+krupy|Мука рисовая|рисовая мука|130|1 стакан (200 мл)|U:Rice flour, white, unenriched
+krupy|Крахмал кукурузный|крахмал|10|1 ст. ложка|U:Cornstarch
+krupy|Хлопья кукурузные|кукурузные хлопья, корнфлекс|30|1 порция|U:Cereals ready-to-eat, RALSTON Corn Flakes
+krupy|Мюсли|мюсли с сухофруктами|50|1 порция|U:Cereals ready-to-eat, wheat and bran, presweetened with nuts and fruits
+krupy|Гранола|гранола запечённая|50|1 порция|U:Cereals ready-to-eat, granola, homemade
+krupy|Попкорн солёный|попкорн с маслом|30|1 горсть|U:Snacks, popcorn, oil-popped, microwave, regular flavor, no trans fat
+krupy|Отруби пшеничные|отруби|15|1 ст. ложка|U:Wheat bran, crude
+krupy|Овсяные отруби|отруби овсяные|15|1 ст. ложка|U:Oat bran, raw

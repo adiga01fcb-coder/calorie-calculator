@@ -1,0 +1,54 @@
+ryba|Лосось атлантический (сёмга, сырой)|сёмга, лосось, salmon|150|1 стейк|U:Fish, salmon, Atlantic, farmed, raw
+ryba|Лосось запечённый|сёмга запечённая, лосось на гриле|150|1 стейк|U:Fish, salmon, Atlantic, farmed, cooked, dry heat
+ryba|Сёмга слабосолёная|красная рыба солёная, сёмга малосольная|30|2 ломтика|R:202/22.5/12.5/0
+ryba|Лосось копчёный|сёмга холодного копчения|30|2 ломтика|U:Fish, salmon, chinook, smoked
+ryba|Горбуша (сырая)|горбуша|150|1 стейк|U:Fish, salmon, pink, raw
+ryba|Кета (сырая)|кета, chum|150|1 стейк|U:Fish, salmon, chum, raw
+ryba|Нерка (сырая)|нерка|150|1 стейк|U:Fish, salmon, sockeye, raw
+ryba|Кижуч (сырой)|кижуч|150|1 стейк|U:Fish, salmon, coho, wild, raw
+ryba|Форель радужная (сырая)|форель|150|1 порция|U:Fish, trout, rainbow, farmed, raw
+ryba|Треска (сырая)|треска филе|150|1 филе|U:Fish, cod, Atlantic, raw
+ryba|Треска запечённая|треска отварная|150|1 филе|U:Fish, cod, Atlantic, cooked, dry heat
+ryba|Минтай (сырой)|минтай филе|150|1 филе|U:Fish, pollock, Alaska, raw
+ryba|Пикша (сырая)|пикша|150|1 филе|U:Fish, haddock, raw
+ryba|Хек (сырой)|хек серебристый|150|1 филе|R:86/16.6/2.2/0
+ryba|Камбала (сырая)|камбала|150|1 филе|U:Fish, flatfish (flounder and sole species), raw
+ryba|Палтус (сырой)|палтус|150|1 стейк|U:Fish, halibut, Atlantic and Pacific, raw
+ryba|Тилапия (сырая)|тиляпия|150|1 филе|U:Fish, tilapia, raw
+ryba|Окунь морской (сырой)|морской окунь|150|1 филе|U:Fish, ocean perch, Atlantic, raw
+ryba|Окунь речной (сырой)|окунь|150|1 филе|U:Fish, perch, mixed species, raw
+ryba|Судак (сырой)|судак|150|1 филе|U:Fish, pike, walleye, raw
+ryba|Щука (сырая)|щука|150|1 филе|U:Fish, pike, northern, raw
+ryba|Карп (сырой)|карп, сазан|150|1 порция|U:Fish, carp, raw
+ryba|Сом (сырой)|сом|150|1 порция|U:Fish, catfish, channel, wild, raw
+ryba|Скумбрия (сырая)|макрель, скумбрия атлантическая|150|1 порция|U:Fish, mackerel, Atlantic, raw
+ryba|Скумбрия горячего копчения|копчёная скумбрия|100|1 порция|R:317/23.4/24.9/0
+ryba|Сельдь (сырая)|селёдка свежая|150|1 порция|U:Fish, herring, Atlantic, raw
+ryba|Сельдь солёная|селёдка, сельдь малосольная|50|2 кусочка|R:217/19.8/15.4/0
+ryba|Килька/шпроты в масле|шпроты|30|5 шт.|R:363/17.4/32.4/0.4
+ryba|Сардины в масле (консервы)|сардина в масле|60|1/2 банки|U:Fish, sardine, Atlantic, canned in oil, drained solids with bone
+ryba|Тунец консервированный в собственном соку|тунец в банке|80|1/2 банки|U:Fish, tuna, light, canned in water, drained solids
+ryba|Тунец (сырой)|тунец стейк, тунец желтопёрый|150|1 стейк|U:Fish, tuna, fresh, yellowfin, raw
+ryba|Сайра в масле (консервы)|сайра|80|1/3 банки|R:283/18.3/23.3/0
+ryba|Анчоусы в масле|анчоус|15|3 шт.|U:Fish, anchovy, european, canned in oil, drained solids
+ryba|Мойва (сырая)|мойва|100|1 порция|R:116/13.4/7.0/0
+ryba|Корюшка (сырая)|корюшка|100|1 порция|U:Fish, smelt, rainbow, raw
+ryba|Вобла сушёная|вобла, сушёная рыба|50|1 порция|R:235/46.4/5.5/0
+ryba|Икра красная|икра лососёвая, икра горбуши|15|1 ст. ложка|R:250/31.6/13.8/0
+ryba|Икра чёрная (осетровая)|чёрная икра|15|1 ст. ложка|U:Fish, caviar, black and red, granular
+ryba|Креветки (сырые)|креветки очищенные|100|1 порция|U:Crustaceans, shrimp, raw
+ryba|Креветки варёные|креветки отварные|100|1 порция|U:Crustaceans, shrimp, cooked
+ryba|Кальмар (сырой)|кальмары|100|1 тушка|U:Mollusks, squid, mixed species, raw
+ryba|Кальмар жареный|кальмары жареные, кольца кальмара|100|1 порция|U:Mollusks, squid, mixed species, cooked, fried
+ryba|Мидии (сырые)|мидия|100|1 порция|U:Mollusks, mussel, blue, raw
+ryba|Мидии варёные|мидии отварные|100|1 порция|U:Mollusks, mussel, blue, cooked, moist heat
+ryba|Осьминог (сырой)|осьминог|100|1 порция|U:Mollusks, octopus, common, raw
+ryba|Гребешок (сырой)|морской гребешок|100|1 порция|U:Mollusks, scallop, mixed species, raw
+ryba|Устрицы (сырые)|устрица|50|3 шт.|U:Mollusks, oyster, eastern, wild, raw
+ryba|Краб (мясо, варёное)|краб, камчатский краб|100|1 порция|U:Crustaceans, crab, alaska king, cooked, moist heat
+ryba|Крабовые палочки|сурими, крабовое мясо|17|1 шт.|U:Fish, surimi
+ryba|Раки (мясо)|раки варёные, речной рак|100|1 порция|U:Crustaceans, crayfish, mixed species, farmed, cooked, moist heat
+ryba|Омар (мясо, варёное)|лобстер|100|1 порция|U:Crustaceans, lobster, northern, cooked, moist heat
+ryba|Печень трески (консервы)|печень трески|30|1 ст. ложка|R:613/4.2/65.7/1.2
+ryba|Морская капуста (ламинария)|ламинария, морская капуста|100|1 порция|U:Seaweed, kelp, raw
+ryba|Рыбные палочки (жареные)|рыбные палочки|25|1 шт.|U:Fish, fish sticks, frozen, prepared
