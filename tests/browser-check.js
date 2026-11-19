@@ -18,6 +18,9 @@ function check(cond, msg) {
   else { failed++; console.error("  FAIL " + msg); }
 }
 function sleep(ms) { return new Promise(function (r) { setTimeout(r, ms); }); }
+function isGaUrl(url) {
+  return /https?:\/\/([^\/]+\.)?(googletagmanager\.com|google-analytics\.com)([/?]|$)/.test(url);
+}
 
 async function newPage(browser, width, height, mobile) {
   var page = await browser.newPage();
@@ -25,8 +28,8 @@ async function newPage(browser, width, height, mobile) {
   page._errors = []; page._external = [];
   page.on("console", function (m) { if (m.type() === "error" || m.type() === "warning") page._errors.push(m.type() + ": " + m.text()); });
   page.on("pageerror", function (e) { page._errors.push("pageerror: " + e.message); });
-  page.on("requestfailed", function (r) { page._errors.push("requestfailed: " + r.url()); });
-  page.on("request", function (r) { if (!/^(file|data|about|blob):/.test(r.url())) page._external.push(r.url()); });
+  page.on("requestfailed", function (r) { if (!isGaUrl(r.url())) page._errors.push("requestfailed: " + r.url()); });
+  page.on("request", function (r) { if (!/^(file|data|about|blob):/.test(r.url()) && !isGaUrl(r.url())) page._external.push(r.url()); });
   page.on("dialog", function (d) { d.accept(); });
   var cdp = await page.createCDPSession();
   await cdp.send("Emulation.setLocaleOverride", { locale: "ru-RU" });

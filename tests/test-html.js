@@ -60,7 +60,10 @@ var noComments = html.replace(/<!--[^]*?-->/g, "");
 T.ok(/<!--[^]*adsbygoogle\.js\?client=ca-pub-XXXXXXXXXXXXXXXX[^]*-->/.test(html), "скрипт AdSense закомментирован с ca-pub-XXXXXXXXXXXXXXXX");
 T.ok(noComments.indexOf("googlesyndication") === -1, "рекламный скрипт не подключается");
 T.ok((noComments.match(/class="ad-slot /g) || []).length >= 2, "видимые места под рекламу");
-T.ok(!/(src|href)="(https?:)?\/\//.test(noComments), "нет внешних src/href");
+var externalRefs = [];
+noComments.replace(/(src|href)="((?:https?:)?\/\/[^"]+)"/g, function (_, _a, u) { externalRefs.push(u); });
+T.ok(externalRefs.every(function (u) { return /^(https:)?\/\/www\.googletagmanager\.com\//.test(u); }),
+  "нет внешних src/href, кроме googletagmanager.com" + (externalRefs.length ? " (" + externalRefs.join(", ") + ")" : ""));
 T.ok(!/@import|url\(\s*["']?https?:/.test(fs.readFileSync(path.join(ROOT, "styles.css"), "utf8")), "в CSS нет внешних ресурсов");
 ["js/app.js", "js/core.js", "data/products.js"].forEach(function (f) {
   var s = fs.readFileSync(path.join(ROOT, f), "utf8");
