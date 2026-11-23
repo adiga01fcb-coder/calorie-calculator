@@ -1,6 +1,6 @@
 # Калькулятор калорий
 
-Локальная одностраничная страница: калорийность и БЖУ продуктов и блюд, дневник питания. **Никуда не опубликована.**
+Локальная одностраничная страница: калорийность и БЖУ продуктов и блюд, дневник питания. Опубликована на GitHub Pages: https://adiga01fcb-coder.github.io/calorie-calculator/
 
 ## Как открыть
 
@@ -61,4 +61,21 @@ node tests/run-all.js         # проверить
 
 1. В `index.html` найдите закомментированный блок `adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX`. Раскомментируйте его и замените `ca-pub-XXXXXXXXXXXXXXXX` своим идентификатором издателя.
 2. Каждый `<div class="ad-slot" … data-ad-slot="XXXXXXXXXX">` (их три) замените кодом рекламного блока из кабинета AdSense: `<ins class="adsbygoogle" …>`, указав свои `data-ad-client` и `data-ad-slot`.
-3. При публикации раскомментируйте `<link rel="canonical">` в `<head>` и укажите настоящий адрес страницы.
+3. Канонический адрес (`<link rel="canonical">`) уже указан: https://adiga01fcb-coder.github.io/calorie-calculator/
+
+## Ежедневное автопополнение базы
+
+`tools/auto/daily_add.py` раз в день добавляет 50 продуктов из очереди `tools/auto/pool.tsv`: 900 кандидатов из USDA FoodData Central SR Legacy, это общественное достояние. Значения на 100 г берутся из USDA без изменений, названия переведены на русский. У каждого продукта сохраняется fdc_id: строка `# fdc_id …` в `tools/spec/14-auto-usda.txt` и журнал `tools/auto/added.tsv`. Проверить значения можно на `https://fdc.nal.usda.gov/food-details/<fdc_id>/nutrients`.
+
+Скрипт делает следующее:
+- отсеивает дубли по названию, slug, ID и описанию USDA;
+- проверяет правдоподобие: 0–900 ккал, Б+Ж+У ≤ 100 г, соответствие ккал и БЖУ по Этуотеру;
+- делает бэкап;
+- пересобирает `data/products.js` и SEO-цифры, включая «Более N продуктов» и lastmod в `sitemap.xml`;
+- прогоняет тесты и браузерную проверку;
+- если что-то не так, откатывается из бэкапа, иначе делает commit и push.
+
+```
+python3 tools/auto/daily_add.py --dry-run      # что будет добавлено
+python3 tools/auto/daily_add.py --live-check   # добавить, опубликовать и проверить живой сайт
+```

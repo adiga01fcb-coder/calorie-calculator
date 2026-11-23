@@ -17,7 +17,8 @@ T.ok(title.length <= 90, "title не длиннее 90 символов (" + tit
 var desc = (html.match(/<meta name="description" content="([^"]+)"/) || [])[1] || "";
 T.ok(desc.length >= 80 && desc.length <= 300, "meta description 80–300 символов (" + desc.length + ")");
 T.ok(/<meta name="robots" content="index,follow">/.test(html), "meta robots");
-T.ok(/<!--[^]*rel="canonical"[^]*-->/.test(html), "canonical — закомментированная заглушка");
+T.ok(/<link rel="canonical" href="https:\/\/adiga01fcb-coder\.github\.io\/calorie-calculator\/">/.test(html), "canonical указывает на адрес GitHub Pages");
+T.ok(/<meta property="og:url" content="https:\/\/adiga01fcb-coder\.github\.io\/calorie-calculator\/">/.test(html), "og:url указан");
 ["og:title", "og:description", "og:type", "og:locale"].forEach(function (k) { T.ok(html.indexOf('property="' + k + '"') !== -1, k); });
 T.ok(/<link rel="icon" href="favicon.svg"/.test(html), "favicon подключён");
 T.ok(fs.existsSync(path.join(ROOT, "favicon.svg")), "favicon.svg существует");
@@ -62,8 +63,8 @@ T.ok(noComments.indexOf("googlesyndication") === -1, "рекламный скр�
 T.ok((noComments.match(/class="ad-slot /g) || []).length >= 2, "видимые места под рекламу");
 var externalRefs = [];
 noComments.replace(/(src|href)="((?:https?:)?\/\/[^"]+)"/g, function (_, _a, u) { externalRefs.push(u); });
-T.ok(externalRefs.every(function (u) { return /^(https:)?\/\/www\.googletagmanager\.com\//.test(u); }),
-  "нет внешних src/href, кроме googletagmanager.com" + (externalRefs.length ? " (" + externalRefs.join(", ") + ")" : ""));
+T.ok(externalRefs.every(function (u) { return /^(https:)?\/\/www\.googletagmanager\.com\//.test(u) || u === "https://adiga01fcb-coder.github.io/calorie-calculator/"; }),
+  "нет внешних src/href, кроме googletagmanager.com и собственного адреса (canonical)" + (externalRefs.length ? " (" + externalRefs.join(", ") + ")" : ""));
 T.ok(!/@import|url\(\s*["']?https?:/.test(fs.readFileSync(path.join(ROOT, "styles.css"), "utf8")), "в CSS нет внешних ресурсов");
 ["js/app.js", "js/core.js", "data/products.js"].forEach(function (f) {
   var s = fs.readFileSync(path.join(ROOT, f), "utf8");

@@ -37,14 +37,15 @@ async function newPage(browser, width, height, mobile) {
 }
 async function text(page, sel) { return page.$eval(sel, function (e) { return e.textContent.trim(); }); }
 async function typeQuery(page, q) {
-  await page.click("#q", { clickCount: 3 });
-  await page.keyboard.press("Backspace");
+  await page.$eval("#q", function (e) { e.value = ""; e.dispatchEvent(new Event("input", { bubbles: true })); });
+  await page.focus("#q");
+  await sleep(200); // дать сработать отложенному closeList (blur → setTimeout 120 мс)
   await page.type("#q", q, { delay: 15 });
   await page.waitForSelector("#q-list:not([hidden]) li", { timeout: 3000 });
 }
 async function setAmount(page, v) {
-  await page.click("#amount", { clickCount: 3 });
-  await page.keyboard.press("Backspace");
+  await page.$eval("#amount", function (e) { e.value = ""; e.dispatchEvent(new Event("input", { bubbles: true })); });
+  await page.focus("#amount");
   await page.type("#amount", v);
 }
 
@@ -187,7 +188,8 @@ async function setAmount(page, v) {
       await page.select("#meal", "dinner");
       await page.click("#add-btn");
       await page.evaluate(function () { document.getElementById("toast").hidden = true; });
-      await page.click("#q", { clickCount: 3 });
+      await page.$eval("#q", function (e) { e.value = ""; e.dispatchEvent(new Event("input", { bubbles: true })); });
+      await page.focus("#q");
       await page.type("#q", "банан", { delay: 20 });
       await page.waitForSelector("#q-list:not([hidden]) li[data-i]");
       await page.evaluate(function () { window.scrollTo({ top: 0, behavior: "instant" }); });
