@@ -1,0 +1,101 @@
+# Автопополнение (tools/auto/daily_add.py). Значения — USDA FoodData Central SR Legacy (public domain), по строке U:.
+# fdc_id 168390, NDB 11012, добавлено 2026-11-23
+ovoshi|Спаржа варёная||100|1 порция|U:Asparagus, cooked, boiled, drained
+# fdc_id 167747, NDB 9152, добавлено 2026-11-23
+frukty|Сок лимонный свежевыжатый||100|1 порция|U:Lemon juice, raw
+# fdc_id 169887, NDB 43130, добавлено 2026-11-23
+myaso|Вегетарианские сосиски||100|1 порция|U:Frankfurter, meatless
+# fdc_id 167744, NDB 90560, добавлено 2026-11-23
+ryba|Улитки (сырые)||100|1 порция|U:Mollusks, snail, raw
+# fdc_id 170843, NDB 1020, добавлено 2026-11-23
+moloko|Сыр фонтина||100|1 порция|U:Cheese, fontina
+# fdc_id 172423, NDB 16076, добавлено 2026-11-23
+krupy|Люпин (семена сухие)||100|1 порция|U:Lupins, mature seeds, raw
+# fdc_id 172686, NDB 18064, добавлено 2026-11-23
+hleb|Хлеб пшеничный||100|1 порция|U:Bread, wheat
+# fdc_id 168158, NDB 9163, добавлено 2026-11-23
+orehi|Черника сушёная с сахаром||100|1 порция|U:Blueberries, dried, sweetened
+# fdc_id 173961, NDB 9081, добавлено 2026-11-23
+masla|Клюквенный соус консервированный||100|1 порция|U:Cranberry sauce, canned, sweetened
+# fdc_id 173730, NDB 16004, добавлено 2026-11-23
+sladkoe|Ёкан (сладость из фасоли адзуки)||100|1 порция|U:Yokan, prepared from adzuki beans and sugar
+# fdc_id 167753, NDB 9294, добавлено 2026-11-23
+napitki|Сок черносливовый||100|1 порция|U:Prune juice, canned
+# fdc_id 172455, NDB 16138, добавлено 2026-11-23
+blyuda|Фалафель домашний||100|1 порция|U:Falafel, home-prepared
+# fdc_id 174287, NDB 16147, добавлено 2026-11-23
+fastfood|Вегетарианский бургер (котлета)||100|1 порция|U:Veggie burgers or soyburgers, unprepared
+# fdc_id 168385, NDB 11003, добавлено 2026-11-23
+ovoshi|Листья амаранта (сырые)||100|1 порция|U:Amaranth leaves, raw
+# fdc_id 167749, NDB 9156, добавлено 2026-11-23
+frukty|Цедра лимона||100|1 порция|U:Lemon peel, raw
+# fdc_id 169067, NDB 43132, добавлено 2026-11-23
+myaso|Вегетарианские фрикадельки||100|1 порция|U:Meatballs, meatless
+# fdc_id 168148, NDB 80200, добавлено 2026-11-23
+ryba|Лягушачьи лапки (сырые)||100|1 порция|U:Frog legs, raw
+# fdc_id 170844, NDB 1025, добавлено 2026-11-23
+moloko|Сыр монтерей джек||100|1 порция|U:Cheese, monterey
+# fdc_id 172436, NDB 16101, добавлено 2026-11-23
+krupy|Голубиный горох (сухой)||100|1 порция|U:Pigeon peas (red gram), mature seeds, raw
+# fdc_id 172678, NDB 18039, добавлено 2026-11-23
+hleb|Хлеб овсяный||100|1 порция|U:Bread, oatmeal
+# fdc_id 168164, NDB 9297, добавлено 2026-11-23
+orehi|Изюм золотистый||100|1 порция|U:Raisins, golden, seedless
+# fdc_id 172442, NDB 16112, добавлено 2026-11-23
+masla|Мисо (соевая паста)||100|1 порция|U:Miso
+# fdc_id 172694, NDB 18086, добавлено 2026-11-23
+sladkoe|Торт ангельский бисквит||100|1 порция|U:Cake, angelfood, commercially prepared
+# fdc_id 167774, NDB 9404, добавлено 2026-11-23
+napitki|Сок грейпфрутовый розовый||100|1 порция|U:Grapefruit juice, pink, raw
+# fdc_id 175207, NDB 16059, добавлено 2026-11-23
+blyuda|Чили с фасолью (консервы)||100|1 порция|U:Chili with beans, canned
+# fdc_id 172081, NDB 21397, добавлено 2026-11-23
+fastfood|Чизбургер большой с овощами и майонезом||100|1 порция|U:Fast foods, cheeseburger; single, large patty; with condiments, vegetables and mayonnaise
+# fdc_id 168407, NDB 11203, добавлено 2026-11-23
+ovoshi|Кресс-салат||100|1 порция|U:Cress, garden, raw
+# fdc_id 167750, NDB 9287, добавлено 2026-11-23
+frukty|Опунция (кактусовая груша)||100|1 порция|U:Prickly pears, raw
+# fdc_id 171075, NDB 5060, добавлено 2026-11-23
+myaso|Куриная грудка с кожей запечённая||100|1 порция|U:Chicken, broilers or fryers, breast, meat and skin, cooked, roasted
+# fdc_id 168149, NDB 83110, добавлено 2026-11-23
+ryba|Скумбрия солёная||100|1 порция|U:Fish, mackerel, salted
+# fdc_id 170846, NDB 1027, добавлено 2026-11-23
+moloko|Моцарелла цельная низкой влажности||100|1 порция|U:Cheese, mozzarella, whole milk, low moisture
+# fdc_id 172438, NDB 16103, добавлено 2026-11-23
+krupy|Фасоль пережаренная (рефрид, консервы)||100|1 порция|U:Refried beans, canned, traditional style
+# fdc_id 174918, NDB 18044, добавлено 2026-11-23
+hleb|Хлеб ржаной пумперникель||100|1 порция|U:Bread, pumpernickel
+# fdc_id 168166, NDB 9299, добавлено 2026-11-23
+orehi|Изюм с косточками||100|1 порция|U:Raisins, seeded
+# fdc_id 174278, NDB 16124, добавлено 2026-11-23
+masla|Соевый соус тамари||100|1 порция|U:Soy sauce made from soy (tamari)
+# fdc_id 172704, NDB 18120, добавлено 2026-11-23
+sladkoe|Кекс фунтовый (на масле)||100|1 порция|U:Cake, pound, commercially prepared, butter (includes fresh and frozen)
+# fdc_id 167787, NDB 9442, добавлено 2026-11-23
+napitki|Сок гранатовый||100|1 порция|U:Pomegranate juice, bottled
+# fdc_id 171544, NDB 6022, добавлено 2026-11-23
+blyuda|Суп куриный с рисом (консервы)||100|1 порция|U:Soup, chicken rice, canned, chunky, ready-to-serve
+# fdc_id 173317, NDB 21390, добавлено 2026-11-23
+fastfood|Гамбургер большой с овощами и майонезом||100|1 порция|U:Fast foods, hamburger; single, large patty; with condiments, vegetables and mayonnaise
+# fdc_id 168411, NDB 11212, добавлено 2026-11-23
+ovoshi|Эдамаме (соевые бобы в стручках, готовые)||100|1 порция|U:Edamame, frozen, prepared
+# fdc_id 167758, NDB 9307, добавлено 2026-11-23
+frukty|Ревень||100|1 порция|U:Rhubarb, raw
+# fdc_id 171474, NDB 5057, добавлено 2026-11-23
+myaso|Куриная грудка с кожей (сырая)||100|1 порция|U:Chicken, broilers or fryers, breast, meat and skin, raw
+# fdc_id 171948, NDB 15004, добавлено 2026-11-23
+ryba|Окунь полосатый (сырой)||100|1 порция|U:Fish, bass, striped, raw
+# fdc_id 170847, NDB 1028, добавлено 2026-11-23
+moloko|Моцарелла из частично обезжиренного молока||100|1 порция|U:Cheese, mozzarella, part skim milk
+# fdc_id 172441, NDB 16111, добавлено 2026-11-23
+krupy|Соевые бобы жареные сухие||100|1 порция|U:Soybeans, mature seeds, dry roasted
+# fdc_id 172680, NDB 18047, добавлено 2026-11-23
+hleb|Хлеб с изюмом||100|1 порция|U:Bread, raisin, enriched
+# fdc_id 169087, NDB 9165, добавлено 2026-11-23
+orehi|Личи сушёные||100|1 порция|U:Litchis, dried
+# fdc_id 170918, NDB 2005, добавлено 2026-11-23
+masla|Тмин (семена)||100|1 порция|U:Spices, caraway seed
+# fdc_id 174939, NDB 18110, добавлено 2026-11-23
+sladkoe|Кекс фруктовый||100|1 порция|U:Cake, fruitcake, commercially prepared
+# fdc_id 167807, NDB 9546, добавлено 2026-11-23
+napitki|Сок вишнёвый (кислая вишня)||100|1 порция|U:Cherry juice, tart
