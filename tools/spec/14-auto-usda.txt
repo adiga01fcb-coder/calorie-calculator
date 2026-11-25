@@ -199,3 +199,103 @@ hleb|Хлеб ржаной поджаренный||100|1 порция|U:Bread, r
 orehi|Хурма сушёная||100|1 порция|U:Persimmons, japanese, dried
 # fdc_id 170927, NDB 2022, добавлено 2026-11-24
 masla|Мацис (мускатный цвет)||100|1 порция|U:Spices, mace, ground
+# fdc_id 174944, NDB 18140, добавлено 2026-11-25
+sladkoe|Торт жёлтый с шоколадной глазурью||100|1 порция|U:Cake, yellow, commercially prepared, with chocolate frosting, in-store bakery
+# fdc_id 169109, NDB 9232, добавлено 2026-11-25
+napitki|Сок маракуйи||100|1 порция|U:Passion-fruit juice, purple, raw
+# fdc_id 174530, NDB 6177, добавлено 2026-11-25
+blyuda|Суп минестроне (консервы)||100|1 порция|U:Soup, minestrone, canned, reduced sodium, ready-to-serve
+# fdc_id 173278, NDB 21064, добавлено 2026-11-25
+fastfood|Буррито с фасолью, сыром и говядиной||100|1 порция|U:Fast foods, burrito, with beans, cheese, and beef
+# fdc_id 168431, NDB 11257, добавлено 2026-11-25
+ovoshi|Салат красный листовой||100|1 порция|U:Lettuce, red leaf, raw
+# fdc_id 167791, NDB 9451, добавлено 2026-11-25
+frukty|Кивано (рогатая дыня)||100|1 порция|U:Horned melon (Kiwano)
+# fdc_id 172389, NDB 5099, добавлено 2026-11-25
+myaso|Куриное бедро без кожи тушёное||100|1 порция|U:Chicken, broilers or fryers, thigh, meat only, cooked, stewed
+# fdc_id 171959, NDB 15023, добавлено 2026-11-25
+ryba|Махи-махи (корифена, сырая)||100|1 порция|U:Fish, mahimahi, raw
+# fdc_id 170858, NDB 1052, добавлено 2026-11-25
+moloko|Сливки 30% (для взбивания)||100|1 порция|U:Cream, fluid, light whipping
+# fdc_id 173734, NDB 16014, добавлено 2026-11-25
+krupy|Фасоль чёрная (сухая)||100|1 порция|U:Beans, black, mature seeds, raw
+# fdc_id 172689, NDB 18076, добавлено 2026-11-25
+hleb|Хлеб цельнозерновой поджаренный||100|1 порция|U:Bread, whole-wheat, commercially prepared, toasted
+# fdc_id 171724, NDB 9085, добавлено 2026-11-25
+orehi|Коринка (мелкий изюм)||100|1 порция|U:Currants, zante, dried
+# fdc_id 170928, NDB 2023, добавлено 2026-11-25
+masla|Майоран сушёный||100|1 порция|U:Spices, marjoram, dried
+# fdc_id 172698, NDB 18102, добавлено 2026-11-25
+sladkoe|Торт белый с кокосовой глазурью||100|1 порция|U:Cake, white, prepared from recipe with coconut frosting
+# fdc_id 169925, NDB 9221, добавлено 2026-11-25
+napitki|Сок мандариновый||100|1 порция|U:Tangerine juice, raw
+# fdc_id 171549, NDB 6037, добавлено 2026-11-25
+blyuda|Суп чечевичный с ветчиной||100|1 порция|U:Soup, lentil with ham, canned, ready-to-serve
+# fdc_id 173272, NDB 21018, добавлено 2026-11-25
+fastfood|Яйца-болтунья (фастфуд)||100|1 порция|U:Fast foods, egg, scrambled
+# fdc_id 168435, NDB 11267, добавлено 2026-11-25
+ovoshi|Шиитаке жареные||100|1 порция|U:Mushrooms, shiitake, stir-fried
+# fdc_id 168151, NDB 9146, добавлено 2026-11-25
+frukty|Унаби (зизифус) свежий||100|1 порция|U:Jujube, raw
+# fdc_id 172385, NDB 5091, добавлено 2026-11-25
+myaso|Куриное бедро с кожей (сырое)||100|1 порция|U:Chicken, broilers or fryers, thigh, meat and skin, raw
+# fdc_id 171962, NDB 15031, добавлено 2026-11-25
+ryba|Групер (сырой)||100|1 порция|U:Fish, grouper, mixed species, raw
+# fdc_id 170859, NDB 1053, добавлено 2026-11-25
+moloko|Сливки 36% (жирные для взбивания)||100|1 порция|U:Cream, fluid, heavy whipping
+# fdc_id 173745, NDB 16037, добавлено 2026-11-25
+krupy|Фасоль флотская (сухая)||100|1 порция|U:Beans, navy, mature seeds, raw
+# fdc_id 172673, NDB 18027, добавлено 2026-11-25
+hleb|Халла (яичный хлеб)||100|1 порция|U:Bread, egg
+# fdc_id 173032, NDB 9110, добавлено 2026-11-25
+orehi|Ягоды годжи сушёные||100|1 порция|U:Goji berries, dried
+# fdc_id 170929, NDB 2024, добавлено 2026-11-25
+masla|Горчица молотая (порошок)||100|1 порция|U:Spices, mustard seed, ground
+# fdc_id 172702, NDB 18116, добавлено 2026-11-25
+sladkoe|Торт имбирный (пряничный)||100|1 порция|U:Cake, gingerbread, prepared from recipe
+# fdc_id 171704, NDB 9036, добавлено 2026-11-25
+napitki|Нектар абрикосовый||100|1 порция|U:Apricot nectar, canned, with added ascorbic acid
+# fdc_id 172903, NDB 6402, добавлено 2026-11-25
+blyuda|Суп из чёрной фасоли (консервы)||100|1 порция|U:Soup, black bean, canned, prepared with equal volume water
+# fdc_id 173269, NDB 21012, добавлено 2026-11-25
+fastfood|Круассан с яйцом, сыром и беконом||100|1 порция|U:Fast foods, croissant, with egg, cheese, and bacon
+# fdc_id 168436, NDB 11268, добавлено 2026-11-25
+ovoshi|Шиитаке сушёные||100|1 порция|U:Mushrooms, shiitake, dried
+# fdc_id 168154, NDB 9149, добавлено 2026-11-25
+frukty|Кумкват||100|1 порция|U:Kumquats, raw
+# fdc_id 172386, NDB 5092, добавлено 2026-11-25
+myaso|Куриное бедро в кляре жареное||100|1 порция|U:Chicken, broilers or fryers, thigh, meat and skin, cooked, fried, batter
+# fdc_id 171965, NDB 15038, добавлено 2026-11-25
+ryba|Палтус гренландский (сырой)||100|1 порция|U:Fish, halibut, Greenland, raw
+# fdc_id 170860, NDB 1054, добавлено 2026-11-25
+moloko|Сливки взбитые в баллончике||100|1 порция|U:Cream, whipped, cream topping, pressurized
+# fdc_id 173747, NDB 16039, добавлено 2026-11-25
+krupy|Фасоль флотская консервированная||100|1 порция|U:Beans, navy, mature seeds, canned
+# fdc_id 174916, NDB 18042, добавлено 2026-11-25
+hleb|Пита цельнозерновая||100|1 порция|U:Bread, pita, whole-wheat
+# fdc_id 169907, NDB 9173, добавлено 2026-11-25
+orehi|Лонган сушёный||100|1 порция|U:Longans, dried
+# fdc_id 170930, NDB 2029, добавлено 2026-11-25
+masla|Петрушка сушёная||100|1 порция|U:Spices, parsley, dried
+# fdc_id 172697, NDB 18101, добавлено 2026-11-25
+sladkoe|Торт шоколадный (домашний, без глазури)||100|1 порция|U:Cake, chocolate, prepared from recipe without frosting
+# fdc_id 167785, NDB 9436, добавлено 2026-11-25
+napitki|Нектар манго||100|1 порция|U:Mango nectar, canned
+# fdc_id 174568, NDB 6494, добавлено 2026-11-25
+blyuda|Суп луковый (из концентрата)||100|1 порция|U:Soup, onion, dry, mix, prepared with water
+# fdc_id 172028, NDB 21005, добавлено 2026-11-25
+fastfood|Бискит (булочка) с яйцом и колбасой||100|1 порция|U:Fast Foods, biscuit, with egg and sausage
+# fdc_id 168437, NDB 11269, добавлено 2026-11-25
+ovoshi|Шиитаке варёные||100|1 порция|U:Mushrooms, shiitake, cooked, without salt
+# fdc_id 168156, NDB 9160, добавлено 2026-11-25
+frukty|Сок лайма||100|1 порция|U:Lime juice, raw
+# fdc_id 173614, NDB 5071, добавлено 2026-11-25
+myaso|Куриная голень без кожи (сырая)||100|1 порция|U:Chicken, broilers or fryers, dark meat, drumstick, meat only, raw
+# fdc_id 171966, NDB 15141, добавлено 2026-11-25
+ryba|Краб голубой консервированный||100|1 порция|U:Crustaceans, crab, blue, canned
+# fdc_id 170876, NDB 1090, добавлено 2026-11-25
+moloko|Молоко сухое цельное||100|1 порция|U:Milk, dry, whole, with added vitamin D
+# fdc_id 173748, NDB 16040, добавлено 2026-11-25
+krupy|Фасоль розовая (сухая)||100|1 порция|U:Beans, pink, mature seeds, raw
+# fdc_id 171845, NDB 28307, добавлено 2026-11-25
+hleb|Лепёшка наан||100|1 порция|U:Bread, naan, plain, commercially prepared, refrigerated
