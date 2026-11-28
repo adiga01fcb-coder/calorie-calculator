@@ -499,3 +499,103 @@ ovoshi|Радиккио||100|1 порция|U:Radicchio, raw
 frukty|Малина замороженная без сахара||100|1 порция|U:Raspberries, frozen, red, unsweetened
 # fdc_id 171466, NDB 5041, добавлено 2026-11-27
 myaso|Курица белое мясо без кожи запечённое||100|1 порция|U:Chicken, broilers or fryers, light meat, meat only, cooked, roasted
+# fdc_id 173668, NDB 15042, добавлено 2026-11-28
+ryba|Сельдь атлантическая копчёная (киппер)||100|1 порция|U:Fish, herring, Atlantic, kippered
+# fdc_id 170898, NDB 1267, добавлено 2026-11-28
+moloko|Сыр котиха (мексиканский)||100|1 порция|U:Cheese, mexican, queso cotija
+# fdc_id 175182, NDB 16006, добавлено 2026-11-28
+krupy|Фасоль печёная консервированная (вегетарианская)||100|1 порция|U:Beans, baked, canned, plain or vegetarian
+# fdc_id 174985, NDB 18232, добавлено 2026-11-28
+hleb|Крекер цельнозерновой||100|1 порция|U:Crackers, wheat, regular
+# fdc_id 170592, NDB 12149, добавлено 2026-11-28
+orehi|Орехи пиньон (сосна съедобная)||100|1 порция|U:Nuts, pine nuts, pinyon, dried
+# fdc_id 171325, NDB 2020, добавлено 2026-11-28
+masla|Чеснок сушёный (порошок)||100|1 порция|U:Spices, garlic powder
+# fdc_id 175026, NDB 18336, добавлено 2026-11-28
+sladkoe|Песочная основа для пирога||100|1 порция|U:Pie crust, standard-type, prepared from recipe, baked
+# fdc_id 173232, NDB 14381, добавлено 2026-11-28
+napitki|Чай травяной (кроме ромашки)||100|1 порция|U:Beverages, tea, herb, other than chamomile, brewed
+# fdc_id 173328, NDB 22899, добавлено 2026-11-28
+blyuda|Равиоли с сыром (консервы)||100|1 порция|U:Ravioli, cheese-filled, canned
+# fdc_id 173273, NDB 21026, добавлено 2026-11-28
+fastfood|Картофельные шарики (тейтер тотс)||100|1 порция|U:Fast foods, potatoes, hash browns, round pieces or patty
+# fdc_id 168566, NDB 11954, добавлено 2026-11-28
+ovoshi|Томатилло (физалис овощной)||100|1 порция|U:Tomatillos, raw
+# fdc_id 168215, NDB 9542, добавлено 2026-11-28
+frukty|Плантан зелёный (сырой)||100|1 порция|U:Plantains, green, raw
+# fdc_id 171054, NDB 5013, добавлено 2026-11-28
+myaso|Курица без кожи запечённая (всё мясо)||100|1 порция|U:Chicken, broilers or fryers, meat only, cooked, roasted
+# fdc_id 173669, NDB 15043, добавлено 2026-11-28
+ryba|Сельдь тихоокеанская (сырая)||100|1 порция|U:Fish, herring, Pacific, raw
+# fdc_id 170901, NDB 1285, добавлено 2026-11-28
+moloko|Йогурт греческий клубничный обезжиренный||100|1 порция|U:Yogurt, Greek, strawberry, nonfat
+# fdc_id 175188, NDB 16018, добавлено 2026-11-28
+krupy|Фасоль чёрная консервированная||100|1 порция|U:Beans, black turtle, mature seeds, canned
+# fdc_id 174975, NDB 18214, добавлено 2026-11-28
+hleb|Крекер с сыром||100|1 порция|U:Crackers, cheese, regular
+# fdc_id 170593, NDB 12156, добавлено 2026-11-28
+orehi|Грецкие орехи в глазури||100|1 порция|U:Nuts, walnuts, glazed
+# fdc_id 171326, NDB 2025, добавлено 2026-11-28
+masla|Мускатный орех молотый||100|1 порция|U:Spices, nutmeg, ground
+# fdc_id 174956, NDB 18172, добавлено 2026-11-28
+sladkoe|Печенье имбирное||100|1 порция|U:Cookies, gingersnaps
+# fdc_id 171888, NDB 14199, добавлено 2026-11-28
+napitki|Чай холодный сладкий (айс-ти)||100|1 порция|U:Beverages, tea, black, ready-to-drink, lemon, sweetened
+# fdc_id 173325, NDB 22247, добавлено 2026-11-28
+blyuda|Макароны с сыром (консервы)||100|1 порция|U:Macaroni and Cheese, canned entree
+# fdc_id 170718, NDB 21229, добавлено 2026-11-28
+fastfood|Кусочки курицы в панировке жареные (фастфуд)||100|1 порция|U:Fast foods, chicken, breaded and fried, boneless pieces, plain
+# fdc_id 168568, NDB 11960, добавлено 2026-11-28
+ovoshi|Морковь мини (бэби)||100|1 порция|U:Carrots, baby, raw
+# fdc_id 169089, NDB 9172, добавлено 2026-11-28
+frukty|Лонган||100|1 порция|U:Longans, raw
+# fdc_id 171451, NDB 5014, добавлено 2026-11-28
+myaso|Курица без кожи тушёная||100|1 порция|U:Chicken, broilers or fryers, meat only, cooked, stewed
+# fdc_id 173670, NDB 15044, добавлено 2026-11-28
+ryba|Мольва (сырая)||100|1 порция|U:Fish, ling, raw
+# fdc_id 170902, NDB 1286, добавлено 2026-11-28
+moloko|Йогурт греческий ванильный обезжиренный||100|1 порция|U:Yogurt, Greek, vanilla, nonfat
+# fdc_id 175192, NDB 16026, добавлено 2026-11-28
+krupy|Фасоль северная белая консервированная||100|1 порция|U:Beans, great northern, mature seeds, canned
+# fdc_id 172740, NDB 18217, добавлено 2026-11-28
+hleb|Маца||100|1 порция|U:Crackers, matzo, plain
+# fdc_id 168592, NDB 12206, добавлено 2026-11-28
+orehi|Миндаль в меду жареный||100|1 порция|U:Nuts, almonds, honey roasted, unblanched
+# fdc_id 171327, NDB 2026, добавлено 2026-11-28
+masla|Лук сушёный (порошок)||100|1 порция|U:Spices, onion powder
+# fdc_id 172727, NDB 18185, добавлено 2026-11-28
+sladkoe|Печенье с арахисовой пастой||100|1 порция|U:Cookies, peanut butter, commercially prepared, regular
+# fdc_id 173230, NDB 14366, добавлено 2026-11-28
+napitki|Чай чёрный растворимый (порошок)||100|1 порция|U:Beverages, tea, instant, unsweetened, powder
+# fdc_id 172099, NDB 22912, добавлено 2026-11-28
+blyuda|Спагетти с фрикадельками в томатном соусе (консервы)||100|1 порция|U:Spaghetti, with meatballs in tomato sauce, canned
+# fdc_id 170709, NDB 21158, добавлено 2026-11-28
+fastfood|Сэндвич саб с фрикадельками маринара||100|1 порция|U:Fast foods, submarine sandwich, meatball marinara on white bread
+# fdc_id 168569, NDB 11961, добавлено 2026-11-28
+ovoshi|Пальмовая сердцевина консервированная||100|1 порция|U:Hearts of palm, canned
+# fdc_id 169093, NDB 9183, добавлено 2026-11-28
+frukty|Дыня касаба||100|1 порция|U:Melons, casaba, raw
+# fdc_id 171052, NDB 5011, добавлено 2026-11-28
+myaso|Курица без кожи (сырая)||100|1 порция|U:Chicken, broilers or fryers, meat only, raw
+# fdc_id 173673, NDB 15051, добавлено 2026-11-28
+ryba|Скумбрия испанская (сырая)||100|1 порция|U:Fish, mackerel, spanish, raw
+# fdc_id 170903, NDB 1287, добавлено 2026-11-28
+moloko|Йогурт греческий нежирный||100|1 порция|U:Yogurt, Greek, plain, lowfat
+# fdc_id 175204, NDB 16051, добавлено 2026-11-28
+krupy|Фасоль белая консервированная||100|1 порция|U:Beans, white, mature seeds, canned
+# fdc_id 174977, NDB 18220, добавлено 2026-11-28
+hleb|Мелба тосты||100|1 порция|U:Crackers, melba toast, plain
+# fdc_id 169412, NDB 12201, добавлено 2026-11-28
+orehi|Кунжут очищенный||100|1 порция|U:Seeds, sesame seed kernels, dried (decorticated)
+# fdc_id 171328, NDB 2027, добавлено 2026-11-28
+masla|Орегано сушёный||100|1 порция|U:Spices, oregano, dried
+# fdc_id 172721, NDB 18170, добавлено 2026-11-28
+sladkoe|Печенье с инжиром||100|1 порция|U:Cookies, fig bars
+# fdc_id 174846, NDB 14136, добавлено 2026-11-28
+napitki|Имбирный эль||100|1 порция|U:Beverages, carbonated, ginger ale
+# fdc_id 172106, NDB 22956, добавлено 2026-11-28
+blyuda|Лазанья овощная (замороженная)||100|1 порция|U:Lasagna, Vegetable, frozen, baked
+# fdc_id 173274, NDB 21028, добавлено 2026-11-28
+fastfood|Мороженое мягкое ванильное в рожке||100|1 порция|U:Fast foods, vanilla, light, soft-serve ice cream, with cone
+# fdc_id 168574, NDB 11973, добавлено 2026-11-28
+ovoshi|Бобы фава в стручке (сырые)||100|1 порция|U:Beans, fava, in pod, raw
